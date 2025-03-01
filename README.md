@@ -1,7 +1,5 @@
 # Quem sou Eu? 👋
 
-![Formatura ADS](https://github.com/ChristianoMiguelSamorideAzevedo/imagens25/blob/main/Miguel_formaturaCadeira.jpg)
-
 
 ## ✍️Eu sou Christiano Miguel, mas prefiro ser Miguel. 
 ### Sou um Prof. Dr em Contabilidade, que buscou implementar a Profissão estudando Tecnologia.🤖
