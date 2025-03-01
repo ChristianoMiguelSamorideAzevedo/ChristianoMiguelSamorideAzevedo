@@ -7,7 +7,7 @@
 ### Sou um Prof. Dr em Contabilidade, que buscou implementar a Profissão estudando Tecnologia.🤖
 Me tornei Analista em Desenvolvimento de Sistemas pelo Centro Universitário Senac SP, onde sigo estudando em busca de uma Dupla Certificação,fazendo o Tecnológo em Banco de Dados. 
 Paralelo a este momento, sou aluno do Curso Bel em Sistemas de Informaçóes da Fac. Impacta de Tecnologia em SP e, pretendo em breve poder atuar como: 
-- 🤓Docente e
+- Professor de Programação e
 - Desenvolvedor Full Stack/Mobile.
   
   Estou envolvido em Projetos Autônomos para pequenas empresas utilizando tecnologias como HTML, CSS, JS, REACT JS, NEXT JS, NODE JS, SQL, MySql. 
