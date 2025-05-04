@@ -1,5 +1,4 @@
 # Quem sou Eu? 👋
-![Banner] (https://github.com/ChristianoMiguelSamorideAzevedo/imagens25/blob/main/Banner_Miguel_GitHub.png?raw=true)
 
 ## ✍️Meu nome é Christiano Miguel, mas prefiro ser Miguel. 
 ### Sou um Prof. Dr em Contabilidade, que aos 49 anos, buscou implementar a Profissão estudando Tecnologia.🤖
