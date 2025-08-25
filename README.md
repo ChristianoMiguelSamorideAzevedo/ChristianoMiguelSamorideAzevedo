@@ -1,4 +1,4 @@
-<h2 align="left">Olá, eu sou o Miguel, Analista de Sistemas, Tecnológo em BD e estudando SI na Impacta. Transacionei de carreira e aos 52 anos me tornei solucionador de problemas usando códigos.</h2>
+<h2 align="left">Olá, eu sou o Miguel, Analista de Sistemas, Tecnológo em BD e estudando Bel em SI na Fac. Impacta. Sou um Estudante eterno que migrou de carreira e aos 52 anos me tornei um cara que pensa em solucionar problemas usando códigos.</h2>
 
 ###
 
