@@ -1,4 +1,4 @@
-<h2 align="left">Hi I'm Miguel👋! a former  Accountant turned Systems 👨🏽‍💻Analyst, Database 👨🏽‍💻Technologist, and lifelong learner. At 52, I decided to shift gears: I left accounting behind but never stopped solving problems. 🤖Today, I bet on technology as my tool for transformation, ✍️and I'm currently pursuing a Bachelor's in Information Systems at Impact College. I believe that code is more than syntax — it's a way to create solutions, 🤩connect ideas, and keep learning every day.</h2>
+<h2 align="left">Hi I'm Miguel👋! a Accountant turned Systems 👨🏽‍💻Analyst, Database 👨🏽‍💻Technologist, and lifelong learner. At 52, I decided to shift gears: I left accounting behind but never stopped solving problems. 🤖Today, I bet on technology as my tool for transformation, ✍️and I'm currently pursuing a Bachelor's in Information Systems at Impact College. I believe that code is more than syntax — it's a way to create solutions, 🤩connect ideas, and keep learning every day.</h2>
 
 ###
 
