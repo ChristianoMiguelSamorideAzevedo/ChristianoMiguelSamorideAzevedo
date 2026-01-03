@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Miguel 👋! An accountant who became a Systems Analyst 👨🏽‍💻, a Software Engineering Specialist 👨🏽‍💻, and a lifelong learner. Accounting is behind me, but I've never stopped solving problems. 🤖 Today, at 53, I'm betting on Technology as my tool for transformation. ✍️ I have a degree in Database Technology and am currently pursuing a Bachelor's degree in Information Systems at Impact College. I believe in code as a syntax tool — to create solutions, 🤩 connect ideas, and improve people's lives.</h2>
+<h2 align="left">Hi, I'm Miguel 👋! An accountant who became a Systems Analyst 👨🏽‍💻, a Software Engineering Specialist 👨🏽‍💻, and a lifelong learner. Accounting is behind me, but I've never stopped solving problems. 🤖 Today, at 53, I'm betting on Technology as my tool for transformation. ✍️ I have a degree in Database Technology and am currently pursuing a Bachelor's degree in Information Systems at Impacta College. I believe in code as a syntax tool — to create solutions, 🤩 connect ideas, and improve people's lives.</h2>
 
 ###
 
